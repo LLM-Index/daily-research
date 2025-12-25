@@ -8,7 +8,7 @@
 
 ## Aim
 
-Evaluate Google's newly released Gemini 3 preview models (Pro and Flash variants) on emotional intelligence capabilities using the EQ-Bench 3 benchmark, and compare their performance against 47 leading AI models including GPT-5, Claude Opus 4, and DeepSeek R1.
+Evaluate Google's recently released Gemini 3 preview models (Pro and Flash variants) on emotional intelligence capabilities using the EQ-Bench 3 benchmark, and compare their performance against 47 leading AI models including GPT-5, Claude Opus 4, and DeepSeek R1.
 
 ---
 
