@@ -1,7 +1,7 @@
 # Google Gemini 3 Preview Models - EQ-Bench 3 Emotional Intelligence Benchmark
 
 **Research by [LLM Index](https://llmindex.net)**
-**A project by [Creative Content Crafts](https://co.actor)**
+**A project by [Creative Content Crafts](https://co.actor) - AI Content Solutions Company**
 **Date:** 2025-12-25
 
 ---

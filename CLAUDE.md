@@ -29,7 +29,7 @@ Every research report MUST include the following sections:
 # [Report Title]
 
 **Research by [LLM Index](https://llmindex.net)**
-**A project by [Creative Content Crafts](https://co.actor)**
+**A project by [Creative Content Crafts](https://co.actor) - AI Content Solutions Company**
 **Date:** [YYYY-MM-DD]
 ```
 
@@ -47,7 +47,7 @@ Every research report MUST include the following sections:
 # [Research Title]
 
 **Research by [LLM Index](https://llmindex.net)**
-**A project by [Creative Content Crafts](https://co.actor)**
+**A project by [Creative Content Crafts](https://co.actor) - AI Content Solutions Company**
 **Date:** YYYY-MM-DD
 
 ---
