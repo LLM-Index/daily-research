@@ -381,7 +381,7 @@ Based on EQ-Bench 3 pairwise comparisons against 47 reference models:
 ## References
 
 - [LLM Index](https://llmindex.net) - AI Model Research & Benchmarks
-- [Creative Content Crafts](https://co.actor) - AI Solutions Company
+- [Creative Content Crafts](https://co.actor) - AI Content Solutions Company
 - [EQ-Bench 3 Official Leaderboard](https://eqbench.com/leaderboard.html)
 - [EQ-Bench 3 GitHub Repository](https://github.com/EQ-bench/eqbench3)
 - [EQ-Bench 3 Methodology Paper](https://arxiv.org/abs/2312.06281)

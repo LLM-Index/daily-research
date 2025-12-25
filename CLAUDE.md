@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains AI/LLM research conducted by [LLM Index](https://llmindex.net), a project by [Creative Content Crafts](https://co.actor).
+This repository contains AI/LLM research conducted by [LLM Index](https://llmindex.net), a project by [Creative Content Crafts](https://co.actor) - AI Content Solutions Company.
 
 ## Folder Structure
 
